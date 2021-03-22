@@ -1,0 +1,37 @@
+jeu en 1 j
+
+jeu en 2d
+
+licorne
+empaler des personnes
+pour empaler : dash avec clique gauche
+1.5s de délais entre chaque dash
+le joueur se déplace gauche /droite et peut sauter
+5 pv
+heal à la fin de chaque niveau
+si 0 pv respawn full life et enlever 1 au nombre de vie
+3 = nombre de vie total
+5% de chance de gagner une vie en tuant un ennemi
+10% sur un boss
+
+
+
+certains ia ont des armes à feu et tirent sur le joueur
+un dégat = 1 pv
+balles esquivables en se deplacant ou en dashant
+25% d'avoir une arme
+x = level
+n = nb d'ennemis
+5+3x = n
+sauf lvl 1 n = 5
+
+
+
+boss tout les 10 niveaux
+possede un armure 
+y = x/10
+5y = pv
+pv > 80% arme de càc
+pv > 40% arme à feu semi automatique
+sinon arme à feu automatique
+2 pv max en plus apres l'avoir tué
